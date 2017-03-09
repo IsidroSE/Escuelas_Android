@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Schools Isidro</string>
+    <string name="title">Schools</string>
+    <string name="title_activity_maps__schools">Map</string>
+    <string name="School_Map">School map</string>
+    <string name="Main_menu">Main Menu</string>
+    <string name="State_schools">State Schools</string>
+    <string name="Private_schools">Private Schools</string>
+</resources>

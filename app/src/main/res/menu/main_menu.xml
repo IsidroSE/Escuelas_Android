@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Vista.MainActivity">
+
+    <item android:id="@+id/mMap"
+        android:title="@string/School_Map"/>
+
+    <item android:id="@+id/mMain"
+        android:title="@string/Main_menu"/>
+
+</menu>
